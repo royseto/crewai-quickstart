@@ -1,3 +1,7 @@
+# Note from Roy Seto
+
+This is a copy of the CrewAI quickstart from https://docs.crewai.com/quickstart. I checked it into my own GitHub repo for purposes of trying a deploy of it on https://app.crewai.com/ because the interface for that service takes a GitHub repo as input. This example also works locally following the instructions on that page.
+
 # LatestAiDevelopment Crew
 
 Welcome to the LatestAiDevelopment Crew project, powered by [crewAI](https://crewai.com). This template is designed to help you set up a multi-agent AI system with ease, leveraging the powerful and flexible framework provided by crewAI. Our goal is to enable your agents to collaborate effectively on complex tasks, maximizing their collective intelligence and capabilities.
